@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+.italic-text {
+	font-style: italic;
+	color: green;
+}
